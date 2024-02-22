@@ -18,6 +18,10 @@ package Pertemuan2;
             Buku04 bk2 = new Buku04("Self Reward", "Maheera Ayesha", 160, 29, 59000);
             bk2.terjual(11);
             bk2.tampilInformasi();
+            
+            Buku04 bukuArjuna = new Buku04("Atomic Habits", "James clear", 340, 10, 11000000);
+            bukuArjuna.terjual(1);
+            bukuArjuna.tampilInformasi();
         }
     }
 
