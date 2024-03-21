@@ -7,6 +7,10 @@ public class Pangkat04 {
 
     public int nilai, pangkat;
 
+    Pangkat04 (int n, int p){
+        nilai = n;
+        pangkat = p;
+    }
     int pangkatBF (int a, int n){
         int hasil = 1;
         for (int i = 0; i < n; i++) {
