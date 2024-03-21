@@ -1,4 +1,4 @@
-package Pertemuan4;
+package Pertemuan5;
 
 /**
  * Faktorial04
