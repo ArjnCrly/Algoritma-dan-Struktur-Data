@@ -1,4 +1,4 @@
-package SequentalSearch;
+package Pertemuan7.SequentialSearch;
 public class PencarianBuku04 {  
     Buku04 listBk[] = new Buku04[5];
     int idx;

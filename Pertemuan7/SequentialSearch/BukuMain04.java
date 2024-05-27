@@ -1,5 +1,5 @@
 
-package SequentalSearch;
+package Pertemuan7.SequentialSearch;
 import java.util.Scanner;
 public class BukuMain04 {
     public static void main(String[] args) {

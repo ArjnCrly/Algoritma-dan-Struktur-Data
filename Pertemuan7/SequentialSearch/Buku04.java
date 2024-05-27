@@ -1,4 +1,4 @@
-package SequentalSearch;
+package Pertemuan7.SequentialSearch;
 
 
 public class Buku04 {
